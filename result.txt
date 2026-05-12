@@ -1,0 +1,7 @@
+Player: prionta saha | Category: Science | Score: 5/5 | Prize: 10000 Taka
+Player: prionta | Category: Science | Score: 5/5 | Prize: 10000 Taka
+Player: nobel | Category: Sports | Score: 1/5 | Prize: 100 Taka
+Player: Ismile Mojumder | Category: Sports | Score: 5/5 | Prize: 10000 Taka
+Player: ismile | Category: Sports | Score: 5/5 | Prize: 10000 Taka
+Player: shuvo | Category: Science | Score: 1/5 | Prize: 100 Taka
+Player: rrttuu | Category: History | Score: 3/5 | Prize: 300 Taka

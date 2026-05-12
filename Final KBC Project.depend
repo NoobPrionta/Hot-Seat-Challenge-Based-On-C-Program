@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1778484959 source:c:\users\asus\downloads\final kbc project\main.c
+	<stdio.h>
+	<string.h>
+

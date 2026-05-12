@@ -1,0 +1,30 @@
+Who is known as the creator of C programming language?
+Dennis Ritchie
+Bjarne Stroustrup
+James Gosling
+Guido van Rossum
+1
+Which of the following statements is CORRECT about pointers?
+A pointer can store multiple addresses at once
+A pointer cannot point to another pointer
+A pointer must be initialized before use
+A pointers only work with integers
+3
+Father of computer?
+Sir Isaac Newton
+Alan Turing
+Shuvo Sarkar
+Sam Altman
+2
+Which function is used to open a file?
+open()
+create()
+fileopen()
+fopen()
+4
+Who is the faculty for CSE 115 Section 18?
+Lionel Messi
+Rajesh Palit
+Cristiano Ronaldo
+Kylian Mbappe
+2
